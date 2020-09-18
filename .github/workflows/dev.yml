@@ -4,7 +4,7 @@ on:
   pull_request:
     branches: [master]
   push:
-    branches: [master]
+    branches: [shivani/version-update-esw]
     paths-ignore:
       - "scripts/**"
       - "tools/**"
